@@ -21,4 +21,4 @@ EXPOSE 5000
 
 # Run the Flask application
 CMD ["python", "app.py"]
-# Good luck and stay safe
+# Good luck 
